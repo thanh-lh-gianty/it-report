@@ -1,0 +1,9 @@
+https://github.com/thanh-lh-it-report/it-report.git
+git clone https://github.com/thanh-lh-it-report/it-report.git
+git add -A && commit -m message
+git push https://github.com/thanh-lh-it-report/it-report.git dev
+git pull --rebase https://github.com/thanh-lh-it-report/it-report.git dev
+
+git checkout -b [name_of_your_new_branch]
+git push origin [name_of_your_new_branch]
+git branch
